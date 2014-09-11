@@ -1,7 +1,3 @@
-/**
- * @author Alper
- *
- */
 import java.net.URL;
 import java.util.ArrayList;
 
